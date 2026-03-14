@@ -1,20 +1,43 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 🚗 Physics Braking Simulator
+
+An interactive physics simulation that demonstrates how **speed affects braking distance** using real-time visualization.
+
+**Group 5 – BSCS 4B**
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 📖 About The Project
 
-View your app in AI Studio: https://ai.studio/apps/7ab1566e-9836-49c2-9b18-d315bea66fd8
+The **Physics Braking Simulator** is a web-based interactive simulation designed to demonstrate the relationship between **velocity and stopping distance**.  
 
-## Run Locally
+This project visualizes basic physics concepts used in **vehicle safety, transportation engineering, and real-world braking systems**.
 
-**Prerequisites:**  Node.js
+Users can observe how increasing speed leads to longer stopping distances, helping illustrate important physical principles.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ⚙️ Features
+
+- Interactive **braking distance simulation**
+- Real-time **visual physics calculation**
+- Adjustable **speed parameters**
+- Clean and simple **React interface**
+- Lightweight simulation (no database required)
+
+---
+
+## 🧠 Physics Concept
+
+Braking distance increases as velocity increases.
+
+The simulation demonstrates how physical forces affect vehicle stopping distance and highlights why **higher speeds require more distance to safely stop**.
+
+---
+
+## 🚀 Run the Project Locally
+
+### Install Dependencies
