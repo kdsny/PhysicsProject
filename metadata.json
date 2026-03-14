@@ -1,0 +1,5 @@
+{
+  "name": "Physics Braking Simulator",
+  "description": "A physics-based game to test reaction time and learn about kinetic energy, braking force, and stopping distance.",
+  "requestFramePermissions": []
+}
